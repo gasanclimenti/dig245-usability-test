@@ -1,2 +1,26 @@
 
 /* css */
+
+h1 {
+  text-transform: uppercase;
+}
+
+.redhead {
+  background-color: #CE0000;
+  color: white;
+  text-align: center;
+  height: 100%;
+  font-size: 1.5rem;
+}
+
+.content {
+  background-color: black;
+  color: white;
+  padding-top: 2px;
+  font-size: 1rem;
+}
+
+img {
+  border: 3px solid black;
+  width: 100%;
+}
