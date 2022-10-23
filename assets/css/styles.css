@@ -2,7 +2,24 @@
 /* css */
 
 h1 {
-  text-transform: uppercase;
+  font-family: "Bebas Neue";
+  color: #A80000;
+  padding-top: 30px;
+  font-size: 100px;
+  text-align: center;
+}
+
+h3 {
+  font-family: "Nunito";
+  text-align: center;
+  font-size: 22px;
+  padding-top: 60px;
+  font-weight: bold;
+}
+
+img {
+  border: 3px solid black;
+  width: 100%;
 }
 
 .redhead {
@@ -10,17 +27,36 @@ h1 {
   color: white;
   text-align: center;
   height: 100%;
-  font-size: 1.5rem;
+  font-size: 30px;
+  font-family: "Bebas Neue";
+  height: 40px;
 }
 
 .content {
   background-color: black;
   color: white;
-  padding-top: 2px;
-  font-size: 1rem;
+  padding-top: 5px;
+  font-size: 15px;
+  font-family: "Nunito";
 }
 
-img {
-  border: 3px solid black;
-  width: 100%;
+.recs {
+  background-color: #CE0000;
+  color: white;
+  text-align: center;
+  height: 100%;
+  margin-bottom: 20px;
+}
+
+.rec-head {
+  font-size: 30px;
+  padding-top: 25px;
+  font-family: "Bebas Neue"
+}
+
+.rec-content {
+  font-size: 15px;
+  padding-top: 15px;
+  padding-bottom: 5px;
+  font-family: "Nunito";
 }
